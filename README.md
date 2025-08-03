@@ -94,9 +94,6 @@
 <table>
   <tr>
     <td>sɪʀ ᴋᴇʟᴠɪɴᴇ</td></td>
-    <td>ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ</td>
-  </tr>
-  <tr>
     <td><a href="https://wa.me/255674229015?"><img src="https://files.catbox.moe/uj4jzr.jpg" width="180"</td>
   </tr>
 </table>
