@@ -100,4 +100,4 @@
 
 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/><
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
