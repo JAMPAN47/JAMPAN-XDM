@@ -101,4 +101,4 @@
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
-[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31)
+[![JOIN WHATSAPP CHANEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029Vb62Nsp6LwHheZHOH51Q)
