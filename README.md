@@ -94,7 +94,11 @@
 <table>
   <tr>
     <td>sɪʀ ᴋᴇʟᴠɪɴᴇ</td></td>
-    <td><a href="https://wa.me/255674229015?"><img src="https://files.catbox.moe/uj4jzr.jpg" width="180"</td>
+    <td>ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ</td>
+  </tr>
+  <tr>
+    <td><a href="https://wa.me/255674229015?"><img src="https://files.catbox.moe/3vfakd.jpeg" width="180"</td>
+    <td><a href="https://wa.me/255757103671?"><img src="https://files.catbox.moe/zkz7by.jpg" width="180"</td>
   </tr>
 </table>
 
