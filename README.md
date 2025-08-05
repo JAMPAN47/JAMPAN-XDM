@@ -94,7 +94,7 @@
 <table>
   <tr>
     <td>sɪʀ ᴋᴇʟᴠɪɴᴇ</td></td>
-    <td>ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ</td>
+    <td>ᴬᴺᴼᴺ</td>
   </tr>
   <tr>
     <td><a href="https://wa.me/255674229015?"><img src="https://files.catbox.moe/3vfakd.jpeg" width="180"</td>
