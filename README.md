@@ -109,6 +109,6 @@
   
   <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=0000ff&color=00FFA3&center=true&width=910&height=100&lines=𝐉𝐀𝐌𝐏𝐀𝐍 𝐗𝐃𝐌+𝐁𝐎𝐓;Multi-Device+Whatsapp+Bot;Coded+By+KELVIN" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=00FFA3&center=true&width=910&height=100&lines=👽𝐖𝐄𝐋𝐋𝐂𝐎𝐌𝐄👽;𝐉𝐀𝐌𝐏𝐀𝐍 𝐗𝐃𝐌+𝐁𝐎𝐓;Multi-Device+Whatsapp+Bot;Coded+By+KELVIN" alt="Typing SVG" />
   </a> 
 </div> 
