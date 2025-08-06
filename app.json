@@ -1,0 +1,22 @@
+{
+	"name": "JAMPAN-XDM
+",
+	"description": "Simple WA Bot",
+	"repository": "https://github.com/JAMPAN47",
+	"stack": "container",
+	"success_url": "/",
+	"env": {
+		"USER_NUMBER": {
+			"description": "Your WhatsApp Account Number that want's to run the bot.",
+			"required": true
+		},
+		"OWNER_NAME": {
+			"description": "Owner of the Bot Name",
+			"required": false
+		},
+		"BOT_NAME": {
+			"description": "Custom Bot Name",
+			"required": false
+		}
+	}
+}
