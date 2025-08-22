@@ -77,8 +77,12 @@
 
    ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/JAMPAN47/KELVIN-XDM"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=black&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ ### <h4 align="">1. HEROKU</h4>
+<p style="text-align: center; font-size: 1.2em;">
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/JAMPAN47/JAMPAN-XDM)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
